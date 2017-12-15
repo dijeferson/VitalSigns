@@ -1,0 +1,5 @@
+..\Build\VitalSigns.SampleApplication.exe
+..\Build\VitalSigns.SampleApplication.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\VitalSigns.SampleApplication.exe
+obj\Release\VitalSigns.SampleApplication.pdb

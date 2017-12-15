@@ -1,0 +1,5 @@
+..\Build\VitalSigns.Library.dll
+..\Build\VitalSigns.Library.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\VitalSigns.Library.dll
+obj\Release\VitalSigns.Library.pdb

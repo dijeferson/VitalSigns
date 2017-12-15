@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Release\ResolveAssemblyReference.cache
+..\Build\SampleApplication.DAQ.exe
+..\Build\SampleApplication.DAQ.pdb
+obj\Release\SampleApplication.DAQ.exe
+obj\Release\SampleApplication.DAQ.pdb
+bin\Debug\SampleApplication.DAQ.exe
+bin\Debug\SampleApplication.DAQ.pdb
+bin\Debug\VitalSigns.DAQ.dll
+bin\Debug\VitalSigns.DAQ.pdb
+obj\Debug\SampleApplication.DAQ.exe
+obj\Debug\SampleApplication.DAQ.pdb
